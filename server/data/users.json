@@ -42,5 +42,11 @@
     "password": "$2b$10$ZngqUlb/a.BmLmBVmO4fd.SL97NSEv33bqKJ3anAt0p.6aV9oVJoe",
     "role": "customer",
     "companyName": "Test Company"
+  },
+  {
+    "username": "refsd",
+    "password": "$2b$10$uHS9BVezDJdMiEgdvv9vI.gLiX7Q1w9pffrOyUM32GeIkTm5zVcWG",
+    "role": "customer",
+    "companyName": "fsdfsdfsd"
   }
 ]
