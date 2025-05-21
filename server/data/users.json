@@ -1,0 +1,46 @@
+[
+  {
+    "username": "admin",
+    "password": "$2b$10$h1jPPRVWCsHg9xMEkQeMrO0bcu9fHxBR9x6nbnYd6bap5cICvXRzC",
+    "role": "admin"
+  },
+  {
+    "username": "employee1",
+    "password": "$2b$10$UUnvT0ZkIs1ttFnqmFgV8.lHg7/DDrX20N45FVANCZUriduZJfKG2",
+    "role": "employee"
+  },
+  {
+    "username": "employee2",
+    "password": "$2b$10$lK7OXvodt6jR3Decky6uJuqSRxQ5AQhZTxYwx92vlbs/UzdY/C6gW",
+    "role": "employee"
+  },
+  {
+    "username": "employee3",
+    "password": "$2b$10$Lha6R2JkhCnU/2Atf0v8xe5rXl8c4wgnMIobBxC.MP2pqvx0s70SC",
+    "role": "employee"
+  },
+  {
+    "username": "sdfsd",
+    "password": "$2b$10$IPHvOn6MZ4YcrRq0DvwXHeRp7ADSrpiXBd8svqTwV0HRQ6finskjm",
+    "role": "customer",
+    "companyName": "fsdfsfd"
+  },
+  {
+    "username": "aek",
+    "password": "$2b$10$l3yQ7sBbNnqa24mMQeKSeeSqrtUK4hRMHLJWS/Z13xv.3FbmF36Nm",
+    "role": "customer",
+    "companyName": "aek"
+  },
+  {
+    "username": "paok",
+    "password": "$2b$10$.pNWboRTXLXaRxOYN2xsNOJT00p3CIgRalA4Nc29cqZPQZtJlXsIu",
+    "role": "customer",
+    "companyName": "paok"
+  },
+  {
+    "username": "testcustomer",
+    "password": "$2b$10$ZngqUlb/a.BmLmBVmO4fd.SL97NSEv33bqKJ3anAt0p.6aV9oVJoe",
+    "role": "customer",
+    "companyName": "Test Company"
+  }
+]
