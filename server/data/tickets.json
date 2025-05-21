@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1747827768420,
+    "username": "sdfsd",
+    "subject": "exam",
+    "category": "feature",
+    "priority": "high",
+    "description": "gamiete",
+    "status": "Closed",
+    "createdAt": "2025-05-21T11:42:48.420Z",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:00:42.702Z"
+      }
+    ]
+  },
+  {
+    "id": 1747828264590,
+    "username": "sdfsd",
+    "subject": "sdffdssdf",
+    "category": "general",
+    "priority": "low",
+    "description": "sdffsdsdffsdfds",
+    "status": "Closed",
+    "createdAt": "2025-05-21T11:51:04.590Z",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:00:52.875Z"
+      }
+    ]
+  },
+  {
+    "id": 1747828299544,
+    "username": "aek",
+    "subject": "dsfsdfsdf",
+    "category": "general",
+    "priority": "low",
+    "description": "sdfsdfsdfsfdfsd",
+    "status": "Closed",
+    "createdAt": "2025-05-21T11:51:39.544Z",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:19:40.801Z"
+      }
+    ]
+  },
+  {
+    "id": 1747828754201,
+    "username": "employee1",
+    "subject": "fsfsdf",
+    "category": "general",
+    "priority": "low",
+    "description": "sdfsdfsfdsdf",
+    "status": "Closed",
+    "createdAt": "2025-05-21T11:59:14.201Z",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:19:39.686Z"
+      }
+    ]
+  },
+  {
+    "id": 1747829134703,
+    "username": "paok",
+    "subject": "adasa",
+    "category": "general",
+    "priority": "low",
+    "description": "paok",
+    "status": "Closed",
+    "createdAt": "2025-05-21T12:05:34.703Z",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:06:00.041Z"
+      },
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:06:00.248Z"
+      }
+    ]
+  },
+  {
+    "id": 1747833540806,
+    "username": "aek",
+    "subject": "PROBLEM ALERT",
+    "category": "billing",
+    "priority": "high",
+    "description": "ASDF",
+    "status": "Closed",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:19:26.397Z"
+      }
+    ],
+    "createdAt": "2025-05-21T13:19:00.806Z"
+  },
+  {
+    "id": 1747834337912,
+    "username": "paok",
+    "subject": "PAPAPAP",
+    "category": "technical",
+    "priority": "high",
+    "description": "PAPAPA",
+    "status": "Closed",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "employee1",
+        "text": "Ticket assigned to employee1",
+        "timestamp": "2025-05-21T13:32:39.349Z"
+      }
+    ],
+    "createdAt": "2025-05-21T13:32:17.912Z"
+  },
+  {
+    "id": 1747838731393,
+    "username": "testcustomer",
+    "subject": "Test Ticket",
+    "priority": "high",
+    "description": "Testing reassignment",
+    "status": "Closed",
+    "assignedTo": "employee1",
+    "comments": [
+      {
+        "author": "admin",
+        "text": "Ticket reassigned to employee1",
+        "timestamp": "2025-05-21T14:45:40.450Z"
+      }
+    ],
+    "createdAt": "2025-05-21T14:45:31.393Z"
+  }
+]
